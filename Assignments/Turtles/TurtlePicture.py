@@ -3,7 +3,7 @@ Created on Sep 15, 2017
 
 @author: leahschwartz
 '''
-import turtle #lets us us turtles library
+import turtle 
 import random
 from turtle import Screen
 wn = turtle.Screen() #creates graphic window
