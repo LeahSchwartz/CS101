@@ -7,7 +7,6 @@ def readFile(fname):
     '''
     returns a list of words read from file
     specified by fname
-    DO NOT MODIFY THIS FUNCTION
     '''
     f = open(fname)
     st = f.read()
@@ -16,7 +15,6 @@ def readFile(fname):
 
 def writeFile(words, fname):
     '''
-    YOU DO NOT NEED TO MODIFY THIS FUNCTION
     write every element in words, a list of strings
     to the file whose name is fname
     put a space between every word written, and make
